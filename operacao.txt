@@ -1,0 +1,1 @@
+O software é implementado, um acompanhamento é feito conforme o uso, checando a usabilidade dos clientes, efetividade dos componentes do aplicativo, eventuais erros não detectados durante os testes. O software recebe feedbacks de uso tanto dos motoristas, quanto dos clientes, avaliando se a utilização é funcional para todos os envolvidos que o software atende.
